@@ -1,0 +1,7 @@
+Testing checkout branching.
+
+$ git checkout firstb // this will swith to firstb branch.
+
+$ git branch // this will list all the branches.
+
+
