@@ -1,5 +1,6 @@
-This is the third text file. 
 
 Tutorials for git commands.
 
-This file is for second commit.
+This is the third text file. 
+
+Testing the new branch firstb.
